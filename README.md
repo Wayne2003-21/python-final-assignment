@@ -1,24 +1,15 @@
-Here is the **corrected documentation with every `CORD-19` renamed to `COVID-19`** as you requested.
+ COVID-19 Streamlit Assignment
 
----
-
-# COVID-19 Streamlit Assignment
-
-## 📌 Overview
 
 This project analyzes the **COVID-19 metadata dataset** and presents findings through a **Streamlit web app**.
 
-### Objectives
 
 * Load and explore real-world data
 * Clean and prepare metadata
 * Create meaningful visualizations
 * Build a simple interactive app
 * Document findings and reflections
-
----
-
-## 🚀 Setup & Installation
+ Setup & Installation
 
 1. Clone this repo:
 
@@ -52,8 +43,7 @@ streamlit run app/app.py
 ```
 
 ---
-
-## 📈 Visualizations
+ Visualizations
 
 * Publications by Year
 * Top Publishing Journals
@@ -61,8 +51,7 @@ streamlit run app/app.py
 * Source Distribution
 
 ---
-
-## 📝 Reflection
+Reflection
 
 * **Challenges:** Large dataset size and handling missing values.
 * **Learnings:** Data cleaning, visualization, and building interactive dashboards.
@@ -70,13 +59,3 @@ streamlit run app/app.py
 
 ---
 
-✅ **Changes made**
-
-* Replaced **CORD-19 → COVID-19** everywhere
-* Fixed formatting for consistency
-* Completed the unfinished sentence in *Future Work*
-
----
-
-If you want, I can also help you **turn this into a stronger GitHub README that looks professional in a developer portfolio** (with sections like screenshots, tech stack, and project structure).
-stracts for deeper insights.
